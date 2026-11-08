@@ -29,5 +29,5 @@ python tools/calculador_vram_llm.py --params 8 --quant Q4_K_M --ctx 8192
 
 ---
 
-**Autor:** Security Analyst  
-**Licencia:** Uso Privado / Propietario
+**Autor:** Juan Carlos Araneda M.  
+**Licencia:** MIT License (consulte [LICENSE](LICENSE))
